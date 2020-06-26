@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/lib"
+    tools:context=".home">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <Button
+            android:id="@+id/cp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/competitive_programming_books"
+            android:background="#D23F51B5"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#F1F6F0" />
+
+        <Button
+            android:id="@+id/vtu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#D23F51B5"
+            android:text="@string/vtu_notes"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#F1F6F0" />
+
+        <Button
+            android:id="@+id/iit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#D23F51B5"
+            android:text="@string/iit"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#F1F6F0" />
+
+        <Button
+            android:id="@+id/neet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#D23F51B5"
+            android:text="@string/neet"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#F1F6F0" />
+
+        <Button
+            android:id="@+id/upsc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#D23F51B5"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/union_public_service_commission"
+            android:textColor="#F1F6F0" />
+
+        <Button
+            android:id="@+id/bpsc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#D23F51B5"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/bihar_public_service_commissionbutton"
+            android:textColor="#F1F6F0" />
+    </LinearLayout>
+</RelativeLayout>

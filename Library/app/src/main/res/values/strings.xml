@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="welcome">WELCOME</string>
+    <string name="guest">GUEST</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="login1">LOGIN</string>
+    <string name="signup">signup</string>
+    <string name="todo">TODO</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="done">done</string>
+    <string name="competitive_programming_books">competitive programming Books</string>
+    <string name="vtu_notes">vtu notes</string>
+    <string name="iit">iit</string>
+    <string name="neet">neet</string>
+    <string name="union_public_service_commission">Union Public Service Commission</string>
+    <string name="bihar_public_service_commissionbutton">Bihar Public Service CommissionButton</string>
+    <string name="book">book</string>
+    <string name="data_structures_algorithms_in_java">Data Structures _ Algorithms in Java</string>
+    <string name="handbook_of_data_structures_and_applications">Handbook of Data Structures and Applications</string>
+</resources>
